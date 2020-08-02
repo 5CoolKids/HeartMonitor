@@ -1,5 +1,5 @@
 # Heart Monitor
 A real-time heart monitor to detect Arrhythmia.
 
-![Image 1](looking.jpg)
-![Image 2](display.png)
+![Image 1](img/looking.jpg)
+![Image 2](img/display.png)
